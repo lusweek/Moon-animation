@@ -1,0 +1,19 @@
+.day{
+    width: 100vw;
+    display: flex;
+    align-items: center;    
+    height: 100vh;
+    justify-content: space-around;
+    flex-direction: column;
+    background-color: rgb(206, 206, 206);
+    color: rgb(21, 21, 21);
+}
+
+h1{
+    font-size: 30px;
+}
+
+.sun{
+    width: 100px;
+    cursor: pointer;
+}
